@@ -5,4 +5,6 @@
 one = 10
 tow = 20
 
-puts one + two
+tre= one + two
+
+puts tre
