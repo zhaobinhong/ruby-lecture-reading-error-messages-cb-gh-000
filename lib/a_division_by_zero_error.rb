@@ -2,9 +2,9 @@
 
 42 / 2
 
-one = 10
-tow = 20
+e = 10
+w = 20
 
-tre= one + two
+tre= e + w
 
 puts tre
